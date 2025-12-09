@@ -1,4 +1,4 @@
-# 05-admin-basica-privilegios.sql
+#  Administraciòn bàsica privilegios
 
 GRANT ALL PRIVILEGES ON ecommerce.* TO 'dba_junior'@'%';
 FLUSH PRIVILEGES;
